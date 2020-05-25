@@ -1,8 +1,8 @@
-# SQL Tutorials From SQLZOO
+# SQL Tutorials From SQL Zoo
 > Learning SQL for the Odin Project!
 
 ## View Tutorials
-[SQLZOO](https://sqlzoo.net/wiki/SQL_Tutorial)
+[SQL Zoo](https://sqlzoo.net/wiki/SQL_Tutorial)
 
 ## Author
 
